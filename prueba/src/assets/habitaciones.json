@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "descripcion": "Habitación doble",
+      "valor": "100.000",
+      "valor2": "135.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDoble.jpg?alt=media&token=6575b08a-1d8f-46bc-b5d6-883360c1aa85"
+    },
+    {
+      "id": 2,
+      "descripcion": "Habitación doble",
+      "valor": "100.000",
+      "valor2": "135.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDobleUno.jpg?alt=media&token=31cb98b1-ebea-4465-ac26-28d8c2c8e9f2"
+    },
+    {
+      "id": 3,
+      "descripcion": "Suite de lujo",
+      "valor": "100.000",
+      "valor2": "125.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDobleTres.jpg?alt=media&token=90b25298-1f14-41dd-9b0a-ad344646e69e"
+    },
+    {
+      "id": 4,
+      "descripcion": "Suite de lujo",
+      "valor": "100.000",
+      "valor2": "125.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDobleUno.jpg?alt=media&token=31cb98b1-ebea-4465-ac26-28d8c2c8e9f2"
+    },
+    {
+      "id": 5,
+      "descripcion": "Suite de lujo",
+      "valor": "100.000",
+      "valor2": "125.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDoblecuatro.jpg?alt=media&token=6ca9425c-901f-411a-bf3d-425db6cc89dd"
+    },
+    {
+      "id": 6,
+      "descripcion": "Suite de lujo",
+      "valor": "100.000",
+      "valor2": "125.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDoble.jpg?alt=media&token=6575b08a-1d8f-46bc-b5d6-883360c1aa85"
+    },{
+      "id": 7,
+      "descripcion": "Suite de lujo",
+      "valor": "100.000",
+      "valor2": "125.000",
+      "urlImg": "https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/habitaciones%2FhabitacionDobleTres.jpg?alt=media&token=90b25298-1f14-41dd-9b0a-ad344646e69e"
+    }
+  ]
+  

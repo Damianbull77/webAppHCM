@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+@media only screen and (max-width: 456px) {
+   .google-maps{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   }
+   .google-maps iframe{
+    width:95%;
+    height: 500px;
+    border-radius: 20px;
+   }
+}
+
+/* Para dispositivos móviles */
+@media only screen and (min-width: 457px) and (max-width: 700px) {
+    .google-maps{
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+       } 
+       .google-maps iframe{
+        width:95%;
+        height: 500px;
+        border-radius: 20px;
+       }   
+}
+
+/* Para tablets */
+@media only screen and (min-width: 701px) and (max-width: 1200px) {
+    .google-maps{
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+       }
+       .google-maps iframe{
+        width:95%;
+        height: 500px;
+        border-radius: 20px;
+       }   
+}
+
+/* Para desktop */
+@media only screen and (min-width: 1201px) {
+    .google-maps{
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+       }
+       .google-maps iframe{
+        width:70%;
+        height: 500px;
+        border-radius: 20px;
+       }   
+}

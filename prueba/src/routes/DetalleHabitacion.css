@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#24dc86;
+    max-width: 50%;
+}
+
+.container-padre{
+    margin-top: 150px;
+    width: 100%;    
+}
+
+.img-habitacion{
+    width:  400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#24dc86;
+}
+
+    

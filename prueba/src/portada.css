@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+.encabezado-img{
+    font-family: 'Open Sans';
+}
+
+@media only screen and (max-width: 456px) {
+    .encabezado-img{
+        background-image: url(https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/portada%2Fmobile.png?alt=media&token=e3fdba4f-7723-4d5d-a260-2345d6d86f56);
+        height: 400px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        margin-top:107px;
+
+    }
+
+    .opacidad{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 400px;
+        background-color: rgba(0, 0, 0, 0.4);
+        margin-top:107px;
+    }
+    
+    .encabezado-img p{
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    
+    .encabezado-img h1{
+        font-size: 50px;
+        text-align: center;
+
+    }
+}
+
+/* Para dispositivos móviles */
+@media only screen and (min-width: 457px) and (max-width: 700px) {
+    .encabezado-img{
+        background-image: url(https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/portada%2Fmobile.png?alt=media&token=e3fdba4f-7723-4d5d-a260-2345d6d86f56);
+        height: 400px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        margin-top:107px;
+
+    }
+
+    .opacidad{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 400px;
+        background-color: rgba(0, 0, 0, 0.4);
+        margin-top:107px;
+    }
+    
+    .encabezado-img p{
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    
+    .encabezado-img h1{
+        font-size: 50px;
+
+    }
+}
+
+/* Para tablets */
+@media only screen and (min-width: 701px) and (max-width: 1200px) {
+    .encabezado-img{
+        background-image: url(https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/portada%2Ftablets.png?alt=media&token=34f0c260-6651-4c09-b8d2-b4d515c9f053);
+        height: 280px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        margin-top:100px;
+    }
+    
+    .opacidad{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 280px;
+        background-color: rgba(0, 0, 0, 0.3);
+        margin-top:100px;
+        
+    }
+    .encabezado-img p{
+        font-size: 40px;
+    }
+    
+    .encabezado-img h1{
+        font-size: 50px;
+        
+    }
+}
+
+/* Para desktop */
+@media only screen and (min-width: 1201px) {
+    .encabezado-img{
+        background-image: url(https://firebasestorage.googleapis.com/v0/b/websitehcm-9d151.appspot.com/o/portada%2Fportada.png?alt=media&token=e3179db1-6212-4850-87a3-abf45fb1be58);
+        height: 300px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        margin-top:110px;
+    }
+    
+    .opacidad{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 300px;
+        background-color: rgba(0, 0, 0, 0.2);
+        margin-top:110px;
+    }
+    .opacidad p{
+        font-size: 30px;
+    }
+    
+    .opacidad h1{
+        font-size: 50px;
+        padding: 20px 0;
+    }
+}
